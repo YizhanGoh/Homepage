@@ -13,8 +13,8 @@
     "uuid": "3.3.3"
   },
   "devDependencies": {
-    "typescript": "3.3.3".
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.2.0",
+    "typescript": "3.3.3"
   },
   "homepage": "https://yizhangoh.github.io/Homepage/",
   "scripts": {
