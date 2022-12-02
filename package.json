@@ -15,7 +15,10 @@
   "devDependencies": {
     "typescript": "3.3.3"
   },
+  "homepage": "https://yizhangoh.github.io/Homepage/",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
