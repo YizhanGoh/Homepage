@@ -4,10 +4,10 @@ import Quote from "./Quote";
 
 function App() {
 
-  const [fontColor, setFontColor] = useState("blue");
+  const [fontColor, setFontColor] = useState("white");
 
   useEffect(() => {
-    document.body.style.backgroundImage = `url('https://source.unsplash.com/random')`;
+    document.body.style.backgroundImage = `url('https://source.unsplash.com/random/1920x1080')`;
   },[]);
 
   function handleClick() {
