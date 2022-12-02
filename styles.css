@@ -4,16 +4,18 @@ html {
 }
 
 body {
-  background-image: url("https://source.unsplash.com/random");
+  background-color: black;
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .today-date {
-  font-size: 40px;
+  font-size: 500%;
   padding-top: 10%;
 }
 
 .quote {
+  font-size: 200%;
   padding-left: 20%;
   padding-right: 20%;
 }
