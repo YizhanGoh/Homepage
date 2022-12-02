@@ -1,0 +1,20 @@
+html {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+
+body {
+  background-image: url("https://source.unsplash.com/random");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.today-date {
+  font-size: 40px;
+  padding-top: 10%;
+}
+
+.quote {
+  padding-left: 20%;
+  padding-right: 20%;
+}
