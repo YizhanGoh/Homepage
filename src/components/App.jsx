@@ -4,7 +4,7 @@ import Quote from "./Quote";
 
 function App() {
 
-  const [fontColor, setFontColor] = useState("white");
+  const [fontColor, setFontColor] = useState("blue");
 
   useEffect(() => {
     document.body.style.backgroundImage = `url('https://source.unsplash.com/random')`;
